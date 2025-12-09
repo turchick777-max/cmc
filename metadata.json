@@ -1,0 +1,5 @@
+{
+  "name": "CheckMyCrypto",
+  "description": "CheckMyCrypto — быстрая проверка криптокошельков перед отправкой. Анализ рисков, санкций и AML в Telegram.",
+  "requestFramePermissions": []
+}
