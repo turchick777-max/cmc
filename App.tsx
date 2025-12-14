@@ -5,8 +5,8 @@
 */
 
 import React, { useState, useEffect } from 'react';
-import { HeroScene } from './components/QuantumScene';
-import { WalletScannerInterface, BotWorkflowVisualizer, RiskDistributionChart } from './components/Diagrams';
+import { HeroScene } from './QuantumScene';
+import { WalletScannerInterface, BotWorkflowVisualizer, RiskDistributionChart } from './Diagrams';
 import { ArrowRight, Menu, X, ShieldCheck, Zap, Lock, Coins, ChevronRight, ExternalLink } from 'lucide-react';
 import { motion } from 'framer-motion';
 
