@@ -267,7 +267,7 @@ const App: React.FC = () => {
                             <ShieldCheck className="text-black group-hover:scale-110 transition-transform" size={32} />
                         </div>
                         <div className="text-5xl sm:text-7xl font-bold text-black mb-4 sm:mb-6 tracking-tighter">Выгодно</div>
-                        <p className="text-gray-600 text-base sm:text-xl mb-8 sm:mb-12 leading-relaxed font-medium">Экономьте до 50% при покупке пакетов от 5 проверок. Для трейдеров и активных пользователей.</p>
+                        <p className="text-gray-600 text-base sm:text-xl mb-8 sm:mb-12 leading-relaxed font-medium">Экономьте до 50% при покупке пакетов от 10 проверок. Для трейдеров и активных пользователей.</p>
                          <a href={BOT_LINK} target="_blank" className="mt-auto block w-full py-4 sm:py-5 text-center bg-black text-white rounded-full text-lg sm:text-xl font-bold hover:bg-gray-800 transition-colors shadow-xl">
                            Смотреть тарифы
                         </a>
@@ -282,10 +282,10 @@ const App: React.FC = () => {
         <div className="container mx-auto px-4 sm:px-6 max-w-7xl">
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6 sm:gap-10 mb-8 sm:mb-12">
                 <div className="text-gray-300 text-base sm:text-xl">
-                    <span className="text-white font-bold text-xl sm:text-2xl">CheckMyCrypto</span> <span className="mx-2 text-gray-600">|</span> Проект <a href={CHANNEL_LINK} target="_blank" className="text-white font-semibold hover:underline">GeekWeb3</a>
+                    <span className="text-white font-bold text-xl sm:text-2xl">CheckMyCrypto</span> <span className="mx-2 text-gray-600">|</span> Проект <a href={CHANNEL_LINK} target="_blank" className="text-white font-semibold hover:underline">от GEEK WEB 3.0</a>
                 </div>
                 <div className="flex flex-col sm:flex-row gap-4 sm:gap-10 text-gray-300 font-bold text-base sm:text-lg">
-                    <a href={CHANNEL_LINK} target="_blank" className="hover:text-white transition-colors flex items-center gap-2">Telegram Канал <ExternalLink size={16}/></a>
+                    <a href={CHANNEL_LINK} target="_blank" className="hover:text-white transition-colors flex items-center gap-2"> Наш Telegram Канал <ExternalLink size={16}/></a>
                     <a href={BOT_LINK} target="_blank" className="hover:text-white transition-colors flex items-center gap-2">Запустить Бот <ArrowRight size={16}/></a>
                 </div>
             </div>
@@ -294,7 +294,7 @@ const App: React.FC = () => {
                     Дисклеймер: Сервис CheckMyCrypto предоставляет справочную информацию на основе открытых данных блокчейна и алгоритмов риск-скоринга. Мы не несем ответственности за ваши финансовые решения, потери средств или блокировки. Всегда проводите собственное исследование (DYOR) перед совершением транзакций.
                 </p>
                 <div className="flex flex-col md:flex-row justify-between items-center mt-8 sm:mt-10 gap-4 sm:gap-6">
-                    <p className="text-sm sm:text-base">© 2024 CheckMyCrypto. All rights reserved.</p>
+                    <p className="text-sm sm:text-base">© 2025 CheckMyCrypto. All rights reserved.</p>
                     <p className="text-[#444] text-sm sm:text-base">Designed for Crypto Security.</p>
                 </div>
             </div>
